@@ -1,2 +1,2 @@
-# week4-activity
-week 4 activity
+# week6-activity
+week 6 activity
